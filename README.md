@@ -15,7 +15,7 @@
 </picture>
 </a>
 
-<!--
+<!-- Kept for possibly needed inspiration
 **evanmschultz/evanmschultz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,6 +39,15 @@ Here are some ideas to get you started:
         <li>🔭 I’m currently working on <b>Coding Dojo - Python Stack</b></li>
         <li>🌱 I’m currently learning <b>Flask, React, MySQL</b></li>
     </ul>
+---
+> I learned very early the difference between knowing the name of something and knowing something.
+
+— Richard Feynman
+
+---
+> I know a lot of names of things. At least the list of things I know is growing.
+
+— Evan Schultz
     </td>
     <td width="50%">
         <a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bc75598-812d-46e0-955c-07fb1a8b1c72_687x480.gif"><img src="./Assets/Images/robot_escher.gif" max-width="480px"></a>
