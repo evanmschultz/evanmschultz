@@ -1,5 +1,20 @@
 # Evan Schultz - [Portfolio]
 
+<a href="https://linkedin.com/in/evanmschultz" target="blank">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="Assets/Logos/linkedin_light.svg">
+<source media="(prefers-color-scheme: light)" srcset="Assets/Logos/linkedin.svg">
+<img alt="Linkedin Logo" src="Assets/Logos/linkedin.svg" height="30px">
+</picture>
+</a>
+<a href="https://www.leetcode.com/evanmschultz" target="blank">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="Assets/Logos/leetcode_light.svg">
+<source media="(prefers-color-scheme: light)" srcset="Assets/Logos/leetcode.svg">
+<img alt="Leetcode Logo" src="Assets/Logos/leetcode.svg" height="30px">
+</picture>
+</a>
+
 <!--
 **evanmschultz/evanmschultz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,10 +35,10 @@ Here are some ideas to get you started:
     <td>
       <h3 align="top">A Software Engineer interest in AI and AI safety</h3>
       <p>Is consciousness inherently a black box, or will some genius/es discover something resembling the inverse of Gödel's Incompleteness Theorem?</p>
-        <ul>
-            <li>🔭 I’m currently working on <b>Coding Dojo - Python Stack</b></li>
-            <li>🌱 I’m currently learning <b>Flask, React, MySQL</b></li>
-        </ul>
+    <ul>
+        <li>🔭 I’m currently working on <b>Coding Dojo - Python Stack</b></li>
+        <li>🌱 I’m currently learning <b>Flask, React, MySQL</b></li>
+    </ul>
     </td>
     <td width="50%">
         <a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bc75598-812d-46e0-955c-07fb1a8b1c72_687x480.gif"><img src="./Assets/Images/robot_escher.gif" max-width="480px"></a>
@@ -31,6 +46,7 @@ Here are some ideas to get you started:
             <p>A robot observing its own head — Illustration by Katsuhiro Otomo<p>
         </div>
     </td>
+
   </tr>
 </table>
 
@@ -74,18 +90,7 @@ Here are some ideas to get you started:
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/evanmschultz" target="blank">
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="Assets/Logos/linkedin_light.svg">
- <source media="(prefers-color-scheme: light)" srcset="Assets/Logos/linkedin.svg">
- <img alt="Linkedin Logo" src="Assets/Logos/linkedin.svg" height="50px">
-</picture>
-</a>
-<a href="https://www.leetcode.com/evanmschultz" target="blank"><picture>
- <source media="(prefers-color-scheme: dark)" srcset="Assets/Logos/leetcode_light.svg">
- <source media="(prefers-color-scheme: light)" srcset="Assets/Logos/leetcode.svg">
- <img alt="Leetcode Logo" src="Assets/Logos/leetcode.svg" height="50px">
-</picture></a>
+
 </p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=evanmschultz&" alt="evanmschultz" /></p>
