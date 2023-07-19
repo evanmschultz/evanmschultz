@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 — Richard Feynman
 
 ---
-> I know a lot of names of things. At least the list of things I know is growing.
+> I know a lot of names of things and the list of things I know is growing.
 
 — Evan Schultz
     </td>
