@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         </ul>
     </td>
     <td width="50%">
-        <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bc75598-812d-46e0-955c-07fb1a8b1c72_687x480.gif" max-width="480px">
+        <a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bc75598-812d-46e0-955c-07fb1a8b1c72_687x480.gif"><img src="./Assets/Images/robot_escher.gif" max-width="480px"></a>
         <div>
             <p>A robot observing its own head — Illustration by Katsuhiro Otomo<p>
         </div>
