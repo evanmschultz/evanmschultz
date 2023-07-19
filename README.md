@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 > I know a lot of names of things. At least the list of things I know is growing.
 
 — Evan Schultz
+
 </td>
 <td width="50%">
 <a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bc75598-812d-46e0-955c-07fb1a8b1c72_687x480.gif"><img src="./Assets/Images/robot_escher.gif" max-width="480px"></a>
@@ -98,11 +99,6 @@ Here are some ideas to get you started:
  <img alt="Django Logo" src="Assets/Logos/django.svg" height="64px">
 </picture>
 <hr>
-<h2 align="left">Connect with me:</h2>
-
-<p align="left">
-
-</p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=evanmschultz&" alt="evanmschultz" /></p>
 
