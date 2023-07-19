@@ -39,6 +39,7 @@ Here are some ideas to get you started:
         <li>🔭 I’m currently working on <b>Coding Dojo - Python Stack</b></li>
         <li>🌱 I’m currently learning <b>Flask, React, MySQL</b></li>
     </ul>
+      
 ---
 > I learned very early the difference between knowing the name of something and knowing something.
 
