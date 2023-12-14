@@ -90,8 +90,8 @@ I can name a few things.
  <img alt="Flask Logo" src="Assets/Logos/flask.svg" height="64px">
 </picture>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="Assets/Logos/django_light.svg">
- <source media="(prefers-color-scheme: light)" srcset="Assets/Logos/django.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="Assets/Logos/FastAPI_icon.svg">
+ <source media="(prefers-color-scheme: light)" srcset="Assets/Logos/FastAPI_icon.svg">
  <img alt="Django Logo" src="Assets/Logos/django.svg" height="64px">
 </picture>
 <hr>
