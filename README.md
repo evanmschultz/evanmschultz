@@ -34,10 +34,10 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <h3 align="top">A Software Engineer interest in AI and AI safety</h3>
-      <p>Is consciousness inherently a black box, or will some genius/es discover something resembling the inverse of Gödel's Incompleteness Theorem?</p>
+      <p>Is consciousness inherently a black box, or will we eventually understand its inner workings?</p>
     <ul>
-        <li>🔭 I’m currently working on <b>Coding Dojo - Python Stack</b></li>
-        <li>🌱 I’m currently learning <b>Flask, React, MySQL</b></li>
+        <li>🔭 I’m currently working on <b>Post-Code</b> a python project</li>
+<!--         <li>🌱 I’m currently learning <b>Flask, React, MySQL</b></li> -->
     </ul>
       
 ---
@@ -47,9 +47,7 @@ Here are some ideas to get you started:
 
 ---
 
-> I know a lot of names of things. At least the list of things I know is growing.
-
-— Evan Schultz
+> I can name a few things.
 
 </td>
 <td width="50%">
