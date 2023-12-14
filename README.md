@@ -45,9 +45,7 @@ Here are some ideas to get you started:
 
 — Richard Feynman
 
----
-
-> I can name a few things.
+I can name a few things.
 
 </td>
 <td width="50%">
