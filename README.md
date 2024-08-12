@@ -36,7 +36,7 @@ Here are some ideas to get you started:
       <h3 align="top">A Software Engineer interest in AI and AI safety</h3>
       <p>Is consciousness inherently a black box, or will we eventually understand its inner workings?</p>
     <ul>
-        <li>🔭 I’m currently working on <b>Post-Code</b> a python project</li>
+        <li>🔭 Currently working on <b>Fenec</b> a python package that helps LLM's use a whole codebase for RAG</li>
 <!--         <li>🌱 I’m currently learning <b>Flask, React, MySQL</b></li> -->
     </ul>
       
@@ -49,10 +49,13 @@ I can name a few things.
 
 </td>
 <td width="50%">
-<a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bc75598-812d-46e0-955c-07fb1a8b1c72_687x480.gif"><img src="./Assets/Images/robot_escher.gif" max-width="480px"></a>
-<div>
+<!-- <a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bc75598-812d-46e0-955c-07fb1a8b1c72_687x480.gif"><img src="./Assets/Images/robot_escher.gif" max-width="480px"></a> -->
+<!-- <div>
 <p>A robot observing its own head — Illustration by Katsuhiro Otomo<p>
-</div>
+</div> -->
+  <img alt="Lorenz Attractor"
+			src="Assets/Images/lorenz_attractor_top_view.gif"
+  >
 </td>
 
   </tr>
