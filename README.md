@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <h3 align="top">A Software Engineer interested in AI and AI safety</h3>
+      <h3 align="top">Software Engineer interested in safely utilizing AI to make development tools</h3>
       <p>Is consciousness inherently a black box, or will we eventually understand its inner workings?</p>
     <ul>
         <li>🔭 Currently working on <b>Fenec</b> a python package that helps LLM's use a whole codebase for RAG</li>
@@ -56,6 +56,7 @@ I can name a few things.
   <img alt="Lorenz Attractor"
 			src="Assets/Images/lorenz_attractor_top_view.gif"
   >
+	<p>Lorenz Attractor: Chaos to apparent order</p>
 </td>
 
   </tr>
